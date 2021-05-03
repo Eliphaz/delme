@@ -1,0 +1,9 @@
+This is the text that i wrote using Nano
+
+This is some more text i added using nano
+
+this is the text that i want to save to my file.
+
+I put this text in VS code
+
+this is some more text with Vim
